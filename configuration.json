@@ -9,7 +9,19 @@
           "Port": 5001
         }
       ],
-      "UpstreamPathTemplate": "/test",
+      "UpstreamPathTemplate": "/topanime",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/movie/popular",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5011
+        }
+      ],
+      "UpstreamPathTemplate": "/topmovie",
       "UpstreamHttpMethod": [ "Get" ]
     }
   ],
