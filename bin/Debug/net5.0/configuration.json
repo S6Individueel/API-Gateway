@@ -1,0 +1,19 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/anime/popular",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "UpstreamPathTemplate": "/test",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:5021"
+  }
+}
