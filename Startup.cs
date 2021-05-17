@@ -19,6 +19,11 @@ namespace API_Gateway
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddOcelot();
+            services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(builder =>
+                builder.WithOrigins("https://localhost:5001"));
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -30,7 +35,7 @@ namespace API_Gateway
             }
 
             app.UseRouting();
-
+            app.UseCors();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapGet("/", async context =>
