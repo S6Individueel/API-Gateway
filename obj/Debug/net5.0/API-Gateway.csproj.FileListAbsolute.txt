@@ -15,7 +15,6 @@ C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\bin\
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\bin\Debug\net5.0\Ocelot.dll
-C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\Debug\net5.0\API-Gateway.csprojAssemblyReference.cache
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\Debug\net5.0\API-Gateway.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\Debug\net5.0\API-Gateway.AssemblyInfoInputs.cache
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\Debug\net5.0\API-Gateway.AssemblyInfo.cs
@@ -23,7 +22,6 @@ C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\Debug\net5.0\API-Gateway.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\Debug\net5.0\API-Gateway.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\Debug\net5.0\staticwebassets\API-Gateway.StaticWebAssets.Manifest.cache
-C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\Debug\net5.0\staticwebassets\API-Gateway.StaticWebAssets.xml
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\Debug\net5.0\scopedcss\bundle\API-Gateway.styles.css
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\Debug\net5.0\API-Gateway.RazorTargetAssemblyInfo.cache
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\Debug\net5.0\API-Gateway.csproj.CopyComplete
@@ -32,3 +30,4 @@ C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\Debug\net5.0\API-Gateway.pdb
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\Debug\net5.0\API-Gateway.genruntimeconfig.cache
 C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\bin\Debug\net5.0\configuration.json
+C:\Users\ander\Documents\SCHOOL\SEMESTER 6\INDIVIDUEEL\PROJECTS\API-Gateway\obj\Debug\net5.0\API-Gateway.csproj.AssemblyReference.cache

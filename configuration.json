@@ -1,24 +1,24 @@
 {
   "Routes": [
     {
-      "DownstreamPathTemplate": "/anime/popular",
+      "DownstreamPathTemplate": "/show/trending/anime",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5031
+          "Port": 5005
         }
       ],
       "UpstreamPathTemplate": "/topanime",
       "UpstreamHttpMethod": [ "Get" ]
     },
     {
-      "DownstreamPathTemplate": "/movie/popular",
+      "DownstreamPathTemplate": "/show/trending/movie",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5011
+          "Port": 5005
         }
       ],
       "UpstreamPathTemplate": "/topmovie",
